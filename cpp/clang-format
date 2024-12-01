@@ -1,0 +1,8 @@
+BasedOnStyle: Google
+BraceWrapping:
+  AfterControlStatement: true
+  AfterFunction: true
+  AfterStruct: true
+  AfterClass: true
+  AfterEnum: true
+  BeforeElse: true
